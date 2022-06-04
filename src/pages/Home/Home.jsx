@@ -2,9 +2,9 @@ import Sidebar from "../../components/sidebar/Sidebar";
 import Navbar from "../../components/navbar/Navbar";
 import "./Home.scss";
 import Widget from "../../components/Widget/Widget";
-import Featured from "../../components/featured/Featured";
+import Featured from "../../components/Featured/Featured";
 import Chart from "../../components/Charts/Charts";
-import Table from "../../components/table/Table";
+import Table from "../../components/Table/Table";
 
 const Home = () => {
   return (
