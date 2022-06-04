@@ -1,6 +1,6 @@
 import "./Single.scss";
-import Sidebar from "../../components/sidebar/Sidebar";
-import Navbar from "../../components/navbar/Navbar";
+import Sidebar from "../../components/Sidebar/Sidebar";
+import Navbar from "../../components/Navbar/Navbar";
 import Chart from "../../components/Charts/Charts";
 import List from "../../components/Table/Table";
 
